@@ -100,6 +100,7 @@ in
   ++ (listEntries ./languages)
   ++ (listEntries ./services)
   ++ (listEntries ./integrations)
+  ++ (listEntries ./toolkits)
   ;
 
   config = {
